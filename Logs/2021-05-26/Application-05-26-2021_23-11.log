@@ -1,0 +1,6 @@
+05-26-2021 23:11:00 [main] INFO  com.learningselenium.testbase.TestBase - Added record : Prahakta is present in Customers Table
+05-26-2021 23:11:00 [main] INFO  com.learningselenium.testbase.TestBase - Account field for the record : Prahakta is present in Customers Table
+05-26-2021 23:11:00 [main] INFO  com.learningselenium.testbase.TestBase - Entered Prahakta in Customers_SearchCustomer_TextField_XPATH field
+05-26-2021 23:11:00 [main] INFO  com.learningselenium.testbase.TestBase - Clicked Customer_SearchedCustomer_Delete_Button_XPATH field
+05-26-2021 23:11:00 [main] INFO  com.learningselenium.testbase.TestBase - Entered Prahakta in Customers_SearchCustomer_TextField_XPATH field
+05-26-2021 23:11:05 [main] INFO  com.learningselenium.testhelpers.CustomListeners - TestCase : test003_DeleteCustomerTest failed.

@@ -1,0 +1,7 @@
+05-26-2021 17:21:02 [main] INFO  com.learningselenium.testbase.TestBase - Entered Kartik in Customers_SearchCustomer_TextField_XPATH field
+05-26-2021 17:21:05 [main] INFO  com.learningselenium.testbase.TestBase - Clicked Customer_SearchedCustomer_Delete_Button_XPATH_Part1KartikCustomer_SearchedCustomer_Delete_Button_XPATH_Part2 field
+05-26-2021 17:21:08 [main] INFO  com.learningselenium.testbase.TestBase - Entered Kartik in Customers_SearchCustomer_TextField_XPATH field
+05-26-2021 17:21:12 [main] INFO  com.learningselenium.testbase.TestBase - Added record : Kartik is present in Customers Table
+05-26-2021 17:21:12 [main] INFO  com.learningselenium.testbase.TestBase - Closed all driver browser instances.
+05-26-2021 17:21:12 [main] INFO  com.learningselenium.testbase.TestBase - Performing Post Test Activity
+05-26-2021 17:21:12 [main] INFO  com.learningselenium.testbase.TestBase - Successfully closed MySQL Database Connection

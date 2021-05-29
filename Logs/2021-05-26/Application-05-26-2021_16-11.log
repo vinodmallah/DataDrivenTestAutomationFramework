@@ -1,0 +1,36 @@
+05-26-2021 16:11:32 [main] INFO  com.learningselenium.testbase.TestBase - Connected to MySQL Database
+05-26-2021 16:11:32 [main] INFO  com.learningselenium.testbase.TestBase - Loaded TestConfig & Object Repository Properties File.
+05-26-2021 16:11:36 [main] INFO  com.learningselenium.testbase.TestBase - WebDriver setup successfully completed.
+05-26-2021 16:11:38 [main] INFO  com.learningselenium.testbase.TestBase - Navigated to http://www.way2automation.com/angularjs-protractor/banking/#/login url.
+05-26-2021 16:11:38 [main] INFO  com.learningselenium.testbase.TestBase - Clicked BankManagerLogin_Button_XPATH field
+05-26-2021 16:11:39 [main] INFO  com.learningselenium.testbase.TestBase - Clicked AddCustomer_MenuButton_XPATH field
+05-26-2021 16:11:39 [main] INFO  com.learningselenium.testbase.TestBase - Entered Harry in AddCustomer_FirstName_TextField_XPATH field
+05-26-2021 16:11:39 [main] INFO  com.learningselenium.testbase.TestBase - Entered Potter in AddCustomer_LastName_TextField_XPATH field
+05-26-2021 16:11:39 [main] INFO  com.learningselenium.testbase.TestBase - Entered 400078 in AddCustomer_PostCode_TextField_XPATH field
+05-26-2021 16:11:39 [main] INFO  com.learningselenium.testbase.TestBase - Clicked AddCustomer_Button_XPATH field
+05-26-2021 16:11:39 [main] INFO  com.learningselenium.testbase.TestBase - Clicked Customer_MenuButton_XPATH field
+05-26-2021 16:11:40 [main] INFO  com.learningselenium.testbase.TestBase - Added record : Harry is present in Customers Table
+05-26-2021 16:11:42 [main] INFO  com.learningselenium.testbase.TestBase - Account field for the record : Harry is present in Customers Table
+05-26-2021 16:11:43 [main] INFO  com.learningselenium.testbase.TestBase - Closed all driver browser instances.
+05-26-2021 16:11:44 [main] INFO  com.learningselenium.testbase.TestBase - WebDriver setup successfully completed.
+05-26-2021 16:11:47 [main] INFO  com.learningselenium.testbase.TestBase - Navigated to http://www.way2automation.com/angularjs-protractor/banking/#/login url.
+05-26-2021 16:11:47 [main] INFO  com.learningselenium.testbase.TestBase - Clicked BankManagerLogin_Button_XPATH field
+05-26-2021 16:11:47 [main] INFO  com.learningselenium.testbase.TestBase - Clicked AddCustomer_MenuButton_XPATH field
+05-26-2021 16:11:48 [main] INFO  com.learningselenium.testbase.TestBase - Entered Hermoine in AddCustomer_FirstName_TextField_XPATH field
+05-26-2021 16:11:48 [main] INFO  com.learningselenium.testbase.TestBase - Entered Granger in AddCustomer_LastName_TextField_XPATH field
+05-26-2021 16:11:48 [main] INFO  com.learningselenium.testbase.TestBase - Entered 400104 in AddCustomer_PostCode_TextField_XPATH field
+05-26-2021 16:11:48 [main] INFO  com.learningselenium.testbase.TestBase - Clicked AddCustomer_Button_XPATH field
+05-26-2021 16:11:48 [main] INFO  com.learningselenium.testbase.TestBase - Clicked Customer_MenuButton_XPATH field
+05-26-2021 16:11:48 [main] INFO  com.learningselenium.testbase.TestBase - Added record : Hermoine is present in Customers Table
+05-26-2021 16:11:50 [main] INFO  com.learningselenium.testbase.TestBase - Account field for the record : Hermoine is present in Customers Table
+05-26-2021 16:11:51 [main] INFO  com.learningselenium.testbase.TestBase - Closed all driver browser instances.
+05-26-2021 16:11:52 [main] INFO  com.learningselenium.testbase.TestBase - WebDriver setup successfully completed.
+05-26-2021 16:11:57 [main] INFO  com.learningselenium.testbase.TestBase - Navigated to http://www.way2automation.com/angularjs-protractor/banking/#/login url.
+05-26-2021 16:11:57 [main] INFO  com.learningselenium.testbase.TestBase - Clicked BankManagerLogin_Button_XPATH field
+05-26-2021 16:11:57 [main] INFO  com.learningselenium.testbase.TestBase - Clicked AddCustomer_MenuButton_XPATH field
+05-26-2021 16:11:57 [main] INFO  com.learningselenium.testbase.TestBase - Entered Ronald in AddCustomer_FirstName_TextField_XPATH field
+05-26-2021 16:11:57 [main] INFO  com.learningselenium.testbase.TestBase - Entered Weasly in AddCustomer_LastName_TextField_XPATH field
+05-26-2021 16:11:57 [main] INFO  com.learningselenium.testbase.TestBase - Entered 400064 in AddCustomer_PostCode_TextField_XPATH field
+05-26-2021 16:11:57 [main] INFO  com.learningselenium.testbase.TestBase - Clicked AddCustomer_Button_XPATH field
+05-26-2021 16:11:58 [main] INFO  com.learningselenium.testbase.TestBase - Clicked Customer_MenuButton_XPATH field
+05-26-2021 16:11:58 [main] INFO  com.learningselenium.testbase.TestBase - Added record : Ronald is present in Customers Table

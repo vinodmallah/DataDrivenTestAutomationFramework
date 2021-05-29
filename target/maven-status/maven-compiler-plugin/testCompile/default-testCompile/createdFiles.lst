@@ -1,0 +1,11 @@
+com\learningselenium\testcases\DummyClass.class
+com\learningselenium\utilities\SMTPAuthenticator.class
+com\learningselenium\utilities\ExcelReader.class
+com\learningselenium\testbase\TestBase.class
+com\learningselenium\testhelpers\CustomListeners.class
+com\learningselenium\testcases\BankManagerTestClass.class
+com\learningselenium\utilities\TestUtil.class
+com\learningselenium\utilities\DatabaseManager.class
+com\learningselenium\testcases\SmokeTest.class
+com\learningselenium\utilities\MonitoringMail.class
+com\learningselenium\testhelpers\ExtentManager.class

@@ -1,0 +1,28 @@
+05-27-2021 12:41:04 [main] INFO  com.learningselenium.testbase.TestBase - Connected to MySQL Database
+05-27-2021 12:41:04 [main] INFO  com.learningselenium.testbase.TestBase - Loaded TestConfig & Object Repository Properties File.
+05-27-2021 12:41:06 [main] INFO  com.learningselenium.testbase.TestBase - WebDriver setup successfully completed.
+05-27-2021 12:41:07 [main] INFO  com.learningselenium.testbase.TestBase - Navigated to http://www.way2automation.com/angularjs-protractor/banking/#/login url.
+05-27-2021 12:41:07 [main] INFO  com.learningselenium.testbase.TestBase - Clicked BankManagerLogin_Button_XPATH field
+05-27-2021 12:41:07 [main] INFO  com.learningselenium.testbase.TestBase - Clicked AddCustomer_MenuButton_XPATH field
+05-27-2021 12:41:08 [main] INFO  com.learningselenium.testbase.TestBase - Entered Vinod in AddCustomer_FirstName_TextField_XPATH field
+05-27-2021 12:41:08 [main] INFO  com.learningselenium.testbase.TestBase - Entered Mallah in AddCustomer_LastName_TextField_XPATH field
+05-27-2021 12:41:08 [main] INFO  com.learningselenium.testbase.TestBase - Entered 400078 in AddCustomer_PostCode_TextField_XPATH field
+05-27-2021 12:41:08 [main] INFO  com.learningselenium.testbase.TestBase - Clicked AddCustomer_Button_XPATH field
+05-27-2021 12:41:08 [main] INFO  com.learningselenium.testbase.TestBase - Clicked Customer_MenuButton_XPATH field
+05-27-2021 12:41:13 [main] INFO  com.learningselenium.testbase.TestBase - Added record : Vinod is present in Customers Table
+05-27-2021 12:41:13 [main] INFO  com.learningselenium.testbase.TestBase - Account field for the record : Vinod is present in Customers Table
+05-27-2021 12:41:14 [main] INFO  com.learningselenium.testbase.TestBase - Closed all driver browser instances.
+05-27-2021 12:41:15 [main] INFO  com.learningselenium.testbase.TestBase - WebDriver setup successfully completed.
+05-27-2021 12:41:16 [main] INFO  com.learningselenium.testbase.TestBase - Navigated to http://www.way2automation.com/angularjs-protractor/banking/#/login url.
+05-27-2021 12:41:17 [main] INFO  com.learningselenium.testbase.TestBase - Clicked BankManagerLogin_Button_XPATH field
+05-27-2021 12:41:17 [main] INFO  com.learningselenium.testbase.TestBase - Clicked AddCustomer_MenuButton_XPATH field
+05-27-2021 12:41:17 [main] INFO  com.learningselenium.testbase.TestBase - Entered Prahakta in AddCustomer_FirstName_TextField_XPATH field
+05-27-2021 12:41:17 [main] INFO  com.learningselenium.testbase.TestBase - Entered Mallah in AddCustomer_LastName_TextField_XPATH field
+05-27-2021 12:41:17 [main] INFO  com.learningselenium.testbase.TestBase - Entered 400104 in AddCustomer_PostCode_TextField_XPATH field
+05-27-2021 12:41:17 [main] INFO  com.learningselenium.testbase.TestBase - Clicked AddCustomer_Button_XPATH field
+05-27-2021 12:41:18 [main] INFO  com.learningselenium.testbase.TestBase - Clicked Customer_MenuButton_XPATH field
+05-27-2021 12:41:23 [main] INFO  com.learningselenium.testbase.TestBase - Added record : Prahakta is present in Customers Table
+05-27-2021 12:41:23 [main] INFO  com.learningselenium.testbase.TestBase - Account field for the record : Prahakta is present in Customers Table
+05-27-2021 12:41:23 [main] INFO  com.learningselenium.testbase.TestBase - Closed all driver browser instances.
+05-27-2021 12:41:23 [main] INFO  com.learningselenium.testbase.TestBase - Performing Post Test Activity
+05-27-2021 12:41:23 [main] INFO  com.learningselenium.testbase.TestBase - Successfully closed MySQL Database Connection

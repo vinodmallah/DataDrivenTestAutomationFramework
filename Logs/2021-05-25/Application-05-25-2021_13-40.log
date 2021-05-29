@@ -1,0 +1,19 @@
+05-25-2021 13:40:44 [main] INFO  com.learningselenium.testhelpers.Action - navigated to http://way2automation.com/way2auto_jquery/index.php url.
+05-25-2021 13:40:45 [main] INFO  com.learningselenium.testhelpers.Action - Clicked enterWebsite_LINKTEXT field
+05-25-2021 13:40:45 [main] INFO  com.learningselenium.testhelpers.Action - Clicked registrationPageLink_XPATH field
+05-25-2021 13:40:46 [main] INFO  com.learningselenium.testhelpers.Action - Entered Vinod in firstName_XPATH field
+05-25-2021 13:40:46 [main] INFO  com.learningselenium.testhelpers.Action - Entered Mallah in lastName_XPATH field
+05-25-2021 13:40:46 [main] INFO  com.learningselenium.testhelpers.Action - Selected India in country_XPATH Select field
+05-25-2021 13:40:46 [main] INFO  com.learningselenium.testhelpers.Action - Selected 1 in dateOfBirth_Month_XPATH Select field
+05-25-2021 13:40:46 [main] INFO  com.learningselenium.testhelpers.Action - Selected 1 in dateOfBirth_Day_XPATH Select field
+05-25-2021 13:40:46 [main] INFO  com.learningselenium.testhelpers.Action - Selected 2014 in dateOfBirth_Year_XPATH Select field
+05-25-2021 13:40:46 [main] INFO  com.learningselenium.testhelpers.Action - Entered +91 9776210272 in phoneNumber_XPATH field
+05-25-2021 13:40:47 [main] INFO  com.learningselenium.testhelpers.Action - Entered jonSnow1234 in userName_XPATH field
+05-25-2021 13:40:47 [main] INFO  com.learningselenium.testhelpers.Action - Entered jonsnow1234@hotmail.com in email_XPATH field
+05-25-2021 13:40:47 [main] INFO  com.learningselenium.testhelpers.Action - Entered I am Learning Selenium. Taking a step towards automation and updating my career profile in aboutYourself_XPATH field
+05-25-2021 13:40:47 [main] INFO  com.learningselenium.testhelpers.Action - Entered TestUserPassword in password_XPATH field
+05-25-2021 13:40:47 [main] INFO  com.learningselenium.testhelpers.Action - Entered TestUserPassword in confirmPassword_XPATH field
+05-25-2021 13:40:47 [main] INFO  com.learningselenium.testhelpers.Action - Clicked scrollTopRegistration_XPATH field
+05-25-2021 13:40:47 [main] INFO  com.learningselenium.testhelpers.Action - Closed current browser window instance.
+05-25-2021 13:40:47 [main] INFO  com.learningselenium.testhelpers.Action - Clicked scrollTopRegistration_XPATH field
+05-25-2021 13:40:48 [main] INFO  com.learningselenium.testhelpers.Action - Closed all browser window instances.

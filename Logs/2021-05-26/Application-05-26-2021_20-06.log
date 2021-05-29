@@ -1,0 +1,47 @@
+05-26-2021 20:06:22 [main] INFO  com.learningselenium.testbase.TestBase - Connected to MySQL Database
+05-26-2021 20:06:22 [main] INFO  com.learningselenium.testbase.TestBase - Loaded TestConfig & Object Repository Properties File.
+05-26-2021 20:06:24 [main] INFO  com.learningselenium.testbase.TestBase - WebDriver setup successfully completed.
+05-26-2021 20:06:26 [main] INFO  com.learningselenium.testbase.TestBase - Navigated to http://www.way2automation.com/angularjs-protractor/banking/#/login url.
+05-26-2021 20:06:26 [main] INFO  com.learningselenium.testbase.TestBase - Clicked BankManagerLogin_Button_XPATH field
+05-26-2021 20:06:27 [main] INFO  com.learningselenium.testbase.TestBase - Clicked AddCustomer_MenuButton_XPATH field
+05-26-2021 20:06:27 [main] INFO  com.learningselenium.testbase.TestBase - Entered Vinod in AddCustomer_FirstName_TextField_XPATH field
+05-26-2021 20:06:27 [main] INFO  com.learningselenium.testbase.TestBase - Entered Mallah in AddCustomer_LastName_TextField_XPATH field
+05-26-2021 20:06:27 [main] INFO  com.learningselenium.testbase.TestBase - Entered 400078 in AddCustomer_PostCode_TextField_XPATH field
+05-26-2021 20:06:27 [main] INFO  com.learningselenium.testbase.TestBase - Clicked AddCustomer_Button_XPATH field
+05-26-2021 20:06:27 [main] INFO  com.learningselenium.testbase.TestBase - Clicked Customer_MenuButton_XPATH field
+05-26-2021 20:06:27 [main] INFO  com.learningselenium.testbase.TestBase - Added record : Vinod is present in Customers Table
+05-26-2021 20:06:27 [main] INFO  com.learningselenium.testbase.TestBase - Account field for the record : Vinod is NOT present in Customers Table
+05-26-2021 20:06:27 [main] INFO  com.learningselenium.testhelpers.CustomListeners - TestCase : test001_AddCustomerTest Passed.
+05-26-2021 20:06:28 [main] INFO  com.learningselenium.testbase.TestBase - Closed all driver browser instances.
+05-26-2021 20:06:29 [main] INFO  com.learningselenium.testbase.TestBase - WebDriver setup successfully completed.
+05-26-2021 20:06:31 [main] INFO  com.learningselenium.testbase.TestBase - Navigated to http://www.way2automation.com/angularjs-protractor/banking/#/login url.
+05-26-2021 20:06:31 [main] INFO  com.learningselenium.testbase.TestBase - Clicked BankManagerLogin_Button_XPATH field
+05-26-2021 20:06:31 [main] INFO  com.learningselenium.testbase.TestBase - Clicked AddCustomer_MenuButton_XPATH field
+05-26-2021 20:06:31 [main] INFO  com.learningselenium.testbase.TestBase - Entered Prahakta in AddCustomer_FirstName_TextField_XPATH field
+05-26-2021 20:06:31 [main] INFO  com.learningselenium.testbase.TestBase - Entered Mallah in AddCustomer_LastName_TextField_XPATH field
+05-26-2021 20:06:31 [main] INFO  com.learningselenium.testbase.TestBase - Entered 400104 in AddCustomer_PostCode_TextField_XPATH field
+05-26-2021 20:06:31 [main] INFO  com.learningselenium.testbase.TestBase - Clicked AddCustomer_Button_XPATH field
+05-26-2021 20:06:31 [main] INFO  com.learningselenium.testbase.TestBase - Clicked Customer_MenuButton_XPATH field
+05-26-2021 20:06:31 [main] INFO  com.learningselenium.testbase.TestBase - Added record : Prahakta is present in Customers Table
+05-26-2021 20:06:31 [main] INFO  com.learningselenium.testbase.TestBase - Account field for the record : Prahakta is NOT present in Customers Table
+05-26-2021 20:06:31 [main] INFO  com.learningselenium.testhelpers.CustomListeners - TestCase : test001_AddCustomerTest Passed.
+05-26-2021 20:06:32 [main] INFO  com.learningselenium.testbase.TestBase - Closed all driver browser instances.
+05-26-2021 20:06:33 [main] INFO  com.learningselenium.testbase.TestBase - WebDriver setup successfully completed.
+05-26-2021 20:06:38 [main] INFO  com.learningselenium.testbase.TestBase - Navigated to http://www.way2automation.com/angularjs-protractor/banking/#/login url.
+05-26-2021 20:06:38 [main] INFO  com.learningselenium.testbase.TestBase - Clicked BankManagerLogin_Button_XPATH field
+05-26-2021 20:06:38 [main] INFO  com.learningselenium.testbase.TestBase - Clicked AddCustomer_MenuButton_XPATH field
+05-26-2021 20:06:39 [main] INFO  com.learningselenium.testbase.TestBase - Entered  in AddCustomer_FirstName_TextField_XPATH field
+05-26-2021 20:06:39 [main] INFO  com.learningselenium.testbase.TestBase - Entered  in AddCustomer_LastName_TextField_XPATH field
+05-26-2021 20:06:39 [main] INFO  com.learningselenium.testbase.TestBase - Entered  in AddCustomer_PostCode_TextField_XPATH field
+05-26-2021 20:06:39 [main] INFO  com.learningselenium.testbase.TestBase - Clicked AddCustomer_Button_XPATH field
+05-26-2021 20:06:39 [main] INFO  com.learningselenium.testhelpers.CustomListeners - TestCase : test001_AddCustomerTest failed.
+05-26-2021 20:06:52 [main] INFO  com.learningselenium.testbase.TestBase - Closed all driver browser instances.
+05-26-2021 20:06:53 [main] INFO  com.learningselenium.testbase.TestBase - WebDriver setup successfully completed.
+05-26-2021 20:06:55 [main] INFO  com.learningselenium.testbase.TestBase - Navigated to http://www.way2automation.com/angularjs-protractor/banking/#/login url.
+05-26-2021 20:06:55 [main] INFO  com.learningselenium.testbase.TestBase - Clicked BankManagerLogin_Button_XPATH field
+05-26-2021 20:06:55 [main] INFO  com.learningselenium.testbase.TestBase - Clicked AddCustomer_MenuButton_XPATH field
+05-26-2021 20:06:56 [main] INFO  com.learningselenium.testbase.TestBase - Entered  in AddCustomer_FirstName_TextField_XPATH field
+05-26-2021 20:06:56 [main] INFO  com.learningselenium.testbase.TestBase - Entered  in AddCustomer_LastName_TextField_XPATH field
+05-26-2021 20:06:56 [main] INFO  com.learningselenium.testbase.TestBase - Entered  in AddCustomer_PostCode_TextField_XPATH field
+05-26-2021 20:06:56 [main] INFO  com.learningselenium.testbase.TestBase - Clicked AddCustomer_Button_XPATH field
+05-26-2021 20:06:56 [main] INFO  com.learningselenium.testhelpers.CustomListeners - TestCase : test001_AddCustomerTest failed.

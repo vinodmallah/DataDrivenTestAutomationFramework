@@ -1,0 +1,20 @@
+05-28-2021 20:03:02 [main] INFO  com.learningselenium.testbase.TestBase - Connected to MySQL Database
+05-28-2021 20:03:02 [main] INFO  com.learningselenium.testbase.TestBase - Loaded TestConfig & Object Repository Properties File.
+05-28-2021 20:03:04 [main] INFO  com.learningselenium.testbase.TestBase - WebDriver setup successfully completed.
+05-28-2021 20:03:05 [main] INFO  com.learningselenium.testbase.TestBase - Navigated to http://www.way2automation.com/angularjs-protractor/banking/#/login url.
+05-28-2021 20:03:05 [main] INFO  com.learningselenium.testhelpers.CustomListeners - TestCase : testMethod skipped.
+05-28-2021 20:03:05 [main] INFO  com.learningselenium.testbase.TestBase - Closed all driver browser instances.
+05-28-2021 20:03:06 [main] INFO  com.learningselenium.testbase.TestBase - WebDriver setup successfully completed.
+05-28-2021 20:03:07 [main] INFO  com.learningselenium.testbase.TestBase - Navigated to http://www.way2automation.com/angularjs-protractor/banking/#/login url.
+05-28-2021 20:03:07 [main] INFO  com.learningselenium.testhelpers.CustomListeners - TestCase : testMethod skipped.
+05-28-2021 20:03:08 [main] INFO  com.learningselenium.testbase.TestBase - Closed all driver browser instances.
+05-28-2021 20:03:09 [main] INFO  com.learningselenium.testbase.TestBase - WebDriver setup successfully completed.
+05-28-2021 20:03:10 [main] INFO  com.learningselenium.testbase.TestBase - Navigated to http://www.way2automation.com/angularjs-protractor/banking/#/login url.
+05-28-2021 20:03:10 [main] INFO  com.learningselenium.testhelpers.CustomListeners - TestCase : testMethod skipped.
+05-28-2021 20:03:10 [main] INFO  com.learningselenium.testbase.TestBase - Closed all driver browser instances.
+05-28-2021 20:03:11 [main] INFO  com.learningselenium.testbase.TestBase - WebDriver setup successfully completed.
+05-28-2021 20:03:12 [main] INFO  com.learningselenium.testbase.TestBase - Navigated to http://www.way2automation.com/angularjs-protractor/banking/#/login url.
+05-28-2021 20:03:12 [main] INFO  com.learningselenium.testhelpers.CustomListeners - TestCase : testMethod failed.
+05-28-2021 20:03:13 [main] INFO  com.learningselenium.testbase.TestBase - Closed all driver browser instances.
+05-28-2021 20:03:13 [main] INFO  com.learningselenium.testbase.TestBase - Performing Post Test Activity
+05-28-2021 20:03:13 [main] INFO  com.learningselenium.testbase.TestBase - Successfully closed MySQL Database Connection

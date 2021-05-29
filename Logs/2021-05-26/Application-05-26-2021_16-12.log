@@ -1,0 +1,28 @@
+05-26-2021 16:12:00 [main] INFO  com.learningselenium.testbase.TestBase - Account field for the record : Ronald is present in Customers Table
+05-26-2021 16:12:00 [main] INFO  com.learningselenium.testbase.TestBase - Closed all driver browser instances.
+05-26-2021 16:12:02 [main] INFO  com.learningselenium.testbase.TestBase - WebDriver setup successfully completed.
+05-26-2021 16:12:06 [main] INFO  com.learningselenium.testbase.TestBase - Navigated to http://www.way2automation.com/angularjs-protractor/banking/#/login url.
+05-26-2021 16:12:06 [main] INFO  com.learningselenium.testbase.TestBase - Clicked BankManagerLogin_Button_XPATH field
+05-26-2021 16:12:06 [main] INFO  com.learningselenium.testbase.TestBase - Clicked AddCustomer_MenuButton_XPATH field
+05-26-2021 16:12:06 [main] INFO  com.learningselenium.testbase.TestBase - Entered Draco in AddCustomer_FirstName_TextField_XPATH field
+05-26-2021 16:12:06 [main] INFO  com.learningselenium.testbase.TestBase - Entered Malfoy in AddCustomer_LastName_TextField_XPATH field
+05-26-2021 16:12:06 [main] INFO  com.learningselenium.testbase.TestBase - Entered 400090 in AddCustomer_PostCode_TextField_XPATH field
+05-26-2021 16:12:06 [main] INFO  com.learningselenium.testbase.TestBase - Clicked AddCustomer_Button_XPATH field
+05-26-2021 16:12:06 [main] INFO  com.learningselenium.testbase.TestBase - Clicked Customer_MenuButton_XPATH field
+05-26-2021 16:12:07 [main] INFO  com.learningselenium.testbase.TestBase - Added record : Draco is present in Customers Table
+05-26-2021 16:12:09 [main] INFO  com.learningselenium.testbase.TestBase - Account field for the record : Draco is present in Customers Table
+05-26-2021 16:12:10 [main] INFO  com.learningselenium.testbase.TestBase - Closed all driver browser instances.
+05-26-2021 16:12:11 [main] INFO  com.learningselenium.testbase.TestBase - WebDriver setup successfully completed.
+05-26-2021 16:12:18 [main] INFO  com.learningselenium.testbase.TestBase - Navigated to http://www.way2automation.com/angularjs-protractor/banking/#/login url.
+05-26-2021 16:12:18 [main] INFO  com.learningselenium.testbase.TestBase - Clicked BankManagerLogin_Button_XPATH field
+05-26-2021 16:12:18 [main] INFO  com.learningselenium.testbase.TestBase - Clicked AddCustomer_MenuButton_XPATH field
+05-26-2021 16:12:19 [main] INFO  com.learningselenium.testbase.TestBase - Entered Ginny in AddCustomer_FirstName_TextField_XPATH field
+05-26-2021 16:12:19 [main] INFO  com.learningselenium.testbase.TestBase - Entered Weasly in AddCustomer_LastName_TextField_XPATH field
+05-26-2021 16:12:19 [main] INFO  com.learningselenium.testbase.TestBase - Entered 400104 in AddCustomer_PostCode_TextField_XPATH field
+05-26-2021 16:12:19 [main] INFO  com.learningselenium.testbase.TestBase - Clicked AddCustomer_Button_XPATH field
+05-26-2021 16:12:19 [main] INFO  com.learningselenium.testbase.TestBase - Clicked Customer_MenuButton_XPATH field
+05-26-2021 16:12:21 [main] INFO  com.learningselenium.testbase.TestBase - Added record : Ginny is present in Customers Table
+05-26-2021 16:12:23 [main] INFO  com.learningselenium.testbase.TestBase - Account field for the record : Ginny is present in Customers Table
+05-26-2021 16:12:24 [main] INFO  com.learningselenium.testbase.TestBase - Closed all driver browser instances.
+05-26-2021 16:12:24 [main] INFO  com.learningselenium.testbase.TestBase - Performing Post Test Activity
+05-26-2021 16:12:24 [main] INFO  com.learningselenium.testbase.TestBase - Successfully closed MySQL Database Connection

@@ -1,0 +1,16 @@
+05-26-2021 17:24:38 [main] INFO  com.learningselenium.testbase.TestBase - Navigated to http://www.way2automation.com/angularjs-protractor/banking/#/login url.
+05-26-2021 17:24:38 [main] INFO  com.learningselenium.testbase.TestBase - Clicked BankManagerLogin_Button_XPATH field
+05-26-2021 17:24:38 [main] INFO  com.learningselenium.testbase.TestBase - Clicked AddCustomer_MenuButton_XPATH field
+05-26-2021 17:24:38 [main] INFO  com.learningselenium.testbase.TestBase - Entered Vinod in AddCustomer_FirstName_TextField_XPATH field
+05-26-2021 17:24:39 [main] INFO  com.learningselenium.testbase.TestBase - Entered Mallah in AddCustomer_LastName_TextField_XPATH field
+05-26-2021 17:24:39 [main] INFO  com.learningselenium.testbase.TestBase - Entered 400078 in AddCustomer_PostCode_TextField_XPATH field
+05-26-2021 17:24:42 [main] INFO  com.learningselenium.testbase.TestBase - Clicked AddCustomer_Button_XPATH field
+05-26-2021 17:24:42 [main] INFO  com.learningselenium.testbase.TestBase - Clicked OpenAccount_MenuButton_XPATH field
+05-26-2021 17:24:42 [main] INFO  com.learningselenium.testbase.TestBase - Selected Vinod Mallah in OpenAccount_Customer_Select_XPATH Select field
+05-26-2021 17:24:42 [main] INFO  com.learningselenium.testbase.TestBase - Selected Pound in OpenAccount_Currency_Select_XPATH Select field
+05-26-2021 17:24:45 [main] INFO  com.learningselenium.testbase.TestBase - Clicked OpenAccount_Process_Button_XPATH field
+05-26-2021 17:24:45 [main] INFO  com.learningselenium.testbase.TestBase - Clicked Customer_MenuButton_XPATH field
+05-26-2021 17:24:46 [main] INFO  com.learningselenium.testbase.TestBase - Added record : Vinod is present in Customers Table
+05-26-2021 17:24:46 [main] INFO  com.learningselenium.testbase.TestBase - Account field for the record : Vinod is present in Customers Table
+05-26-2021 17:24:49 [main] INFO  com.learningselenium.testbase.TestBase - Entered Vinod in Customers_SearchCustomer_TextField_XPATH field
+05-26-2021 17:24:52 [main] INFO  com.learningselenium.testbase.TestBase - Clicked Customer_SearchedCustomer_Delete_Button_XPATH_Part1VinodCustomer_SearchedCustomer_Delete_Button_XPATH_Part2 field

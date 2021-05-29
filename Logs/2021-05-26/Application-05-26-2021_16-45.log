@@ -1,0 +1,4 @@
+05-26-2021 16:45:32 [main] INFO  com.learningselenium.testbase.TestBase - Connected to MySQL Database
+05-26-2021 16:45:32 [main] INFO  com.learningselenium.testbase.TestBase - Loaded TestConfig & Object Repository Properties File.
+05-26-2021 16:45:32 [main] INFO  com.learningselenium.testbase.TestBase - Performing Post Test Activity
+05-26-2021 16:45:32 [main] INFO  com.learningselenium.testbase.TestBase - Successfully closed MySQL Database Connection

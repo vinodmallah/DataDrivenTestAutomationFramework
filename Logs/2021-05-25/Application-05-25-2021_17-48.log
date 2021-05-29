@@ -1,0 +1,9 @@
+05-25-2021 17:48:00 [main] INFO  com.learningselenium.testbase.TestBase - navigated to http://www.way2automation.com/angularjs-protractor/banking/#/login url.
+05-25-2021 17:48:04 [main] INFO  com.learningselenium.testhelpers.CustomListeners - TestCase : smokeTest001 failed.
+05-25-2021 17:48:05 [main] INFO  com.learningselenium.testbase.TestBase - Closed all driver browser instances.
+05-25-2021 17:48:06 [main] INFO  com.learningselenium.testbase.TestBase - WebDriver setup successfully completed.
+05-25-2021 17:48:08 [main] INFO  com.learningselenium.testbase.TestBase - navigated to http://www.way2automation.com/angularjs-protractor/banking/#/login url.
+05-25-2021 17:48:08 [main] INFO  com.learningselenium.testhelpers.CustomListeners - TestCase : smokeTest002 Passed.
+05-25-2021 17:48:08 [main] INFO  com.learningselenium.testbase.TestBase - Closed all driver browser instances.
+05-25-2021 17:48:08 [main] INFO  com.learningselenium.testbase.TestBase - Performing Post Test Activity
+05-25-2021 17:48:08 [main] INFO  com.learningselenium.testbase.TestBase - Successfully closed MySQL Database Connection

@@ -1,0 +1,5 @@
+05-26-2021 19:53:45 [main] INFO  com.learningselenium.testbase.TestBase - Connected to MySQL Database
+05-26-2021 19:53:45 [main] INFO  com.learningselenium.testbase.TestBase - Loaded TestConfig & Object Repository Properties File.
+05-26-2021 19:53:47 [main] INFO  com.learningselenium.testbase.TestBase - WebDriver setup successfully completed.
+05-26-2021 19:53:53 [main] INFO  com.learningselenium.testbase.TestBase - Navigated to http://www.way2automation.com/angularjs-protractor/banking/#/login url.
+05-26-2021 19:53:53 [main] INFO  com.learningselenium.testhelpers.CustomListeners - TestCase : testMethod failed.

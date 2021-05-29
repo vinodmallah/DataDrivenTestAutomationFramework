@@ -1,0 +1,4 @@
+05-26-2021 13:49:00 [main] INFO  com.learningselenium.testbase.TestBase - Clicked AddCustomer_Button_XPATH field
+05-26-2021 13:49:09 [main] INFO  com.learningselenium.testbase.TestBase - Closed all driver browser instances.
+05-26-2021 13:49:09 [main] INFO  com.learningselenium.testbase.TestBase - Performing Post Test Activity
+05-26-2021 13:49:09 [main] INFO  com.learningselenium.testbase.TestBase - Successfully closed MySQL Database Connection

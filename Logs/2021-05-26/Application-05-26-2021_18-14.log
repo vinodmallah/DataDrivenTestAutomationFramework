@@ -1,0 +1,60 @@
+05-26-2021 18:14:00 [main] INFO  com.learningselenium.testbase.TestBase - Clicked BankManagerLogin_Button_XPATH field
+05-26-2021 18:14:00 [main] INFO  com.learningselenium.testbase.TestBase - Clicked AddCustomer_MenuButton_XPATH field
+05-26-2021 18:14:00 [main] INFO  com.learningselenium.testbase.TestBase - Entered Prahakta in AddCustomer_FirstName_TextField_XPATH field
+05-26-2021 18:14:01 [main] INFO  com.learningselenium.testbase.TestBase - Entered Mallah in AddCustomer_LastName_TextField_XPATH field
+05-26-2021 18:14:01 [main] INFO  com.learningselenium.testbase.TestBase - Entered 400104 in AddCustomer_PostCode_TextField_XPATH field
+05-26-2021 18:14:01 [main] INFO  com.learningselenium.testbase.TestBase - Clicked AddCustomer_Button_XPATH field
+05-26-2021 18:14:01 [main] INFO  com.learningselenium.testbase.TestBase - Clicked OpenAccount_MenuButton_XPATH field
+05-26-2021 18:14:01 [main] INFO  com.learningselenium.testbase.TestBase - Selected Prahakta Mallah in OpenAccount_Customer_Select_XPATH Select field
+05-26-2021 18:14:01 [main] INFO  com.learningselenium.testbase.TestBase - Selected Pound in OpenAccount_Currency_Select_XPATH Select field
+05-26-2021 18:14:01 [main] INFO  com.learningselenium.testbase.TestBase - Clicked OpenAccount_Process_Button_XPATH field
+05-26-2021 18:14:01 [main] INFO  com.learningselenium.testbase.TestBase - Clicked Customer_MenuButton_XPATH field
+05-26-2021 18:14:01 [main] INFO  com.learningselenium.testbase.TestBase - Added record : Prahakta is present in Customers Table
+05-26-2021 18:14:01 [main] INFO  com.learningselenium.testbase.TestBase - Account field for the record : Prahakta is present in Customers Table
+05-26-2021 18:14:01 [main] INFO  com.learningselenium.testbase.TestBase - Entered Prahakta in Customers_SearchCustomer_TextField_XPATH field
+05-26-2021 18:14:02 [main] INFO  com.learningselenium.testbase.TestBase - Clicked Customer_SearchedCustomer_Delete_Button_XPATH field
+05-26-2021 18:14:02 [main] INFO  com.learningselenium.testbase.TestBase - Entered Prahakta in Customers_SearchCustomer_TextField_XPATH field
+05-26-2021 18:14:12 [main] INFO  com.learningselenium.testbase.TestBase - Record Deleted Successfully!!!!!
+05-26-2021 18:14:12 [main] INFO  com.learningselenium.testbase.TestBase - Closed all driver browser instances.
+05-26-2021 18:14:14 [main] INFO  com.learningselenium.testbase.TestBase - WebDriver setup successfully completed.
+05-26-2021 18:14:16 [main] INFO  com.learningselenium.testbase.TestBase - Navigated to http://www.way2automation.com/angularjs-protractor/banking/#/login url.
+05-26-2021 18:14:16 [main] INFO  com.learningselenium.testbase.TestBase - Clicked BankManagerLogin_Button_XPATH field
+05-26-2021 18:14:16 [main] INFO  com.learningselenium.testbase.TestBase - Clicked AddCustomer_MenuButton_XPATH field
+05-26-2021 18:14:18 [main] INFO  com.learningselenium.testbase.TestBase - Entered Ragga in AddCustomer_FirstName_TextField_XPATH field
+05-26-2021 18:14:18 [main] INFO  com.learningselenium.testbase.TestBase - Entered Narayan in AddCustomer_LastName_TextField_XPATH field
+05-26-2021 18:14:18 [main] INFO  com.learningselenium.testbase.TestBase - Entered 400064 in AddCustomer_PostCode_TextField_XPATH field
+05-26-2021 18:14:18 [main] INFO  com.learningselenium.testbase.TestBase - Clicked AddCustomer_Button_XPATH field
+05-26-2021 18:14:18 [main] INFO  com.learningselenium.testbase.TestBase - Clicked OpenAccount_MenuButton_XPATH field
+05-26-2021 18:14:18 [main] INFO  com.learningselenium.testbase.TestBase - Selected Ragga Narayan in OpenAccount_Customer_Select_XPATH Select field
+05-26-2021 18:14:18 [main] INFO  com.learningselenium.testbase.TestBase - Selected Rupee in OpenAccount_Currency_Select_XPATH Select field
+05-26-2021 18:14:18 [main] INFO  com.learningselenium.testbase.TestBase - Clicked OpenAccount_Process_Button_XPATH field
+05-26-2021 18:14:18 [main] INFO  com.learningselenium.testbase.TestBase - Clicked Customer_MenuButton_XPATH field
+05-26-2021 18:14:18 [main] INFO  com.learningselenium.testbase.TestBase - Added record : Ragga is present in Customers Table
+05-26-2021 18:14:19 [main] INFO  com.learningselenium.testbase.TestBase - Account field for the record : Ragga is present in Customers Table
+05-26-2021 18:14:19 [main] INFO  com.learningselenium.testbase.TestBase - Entered Ragga in Customers_SearchCustomer_TextField_XPATH field
+05-26-2021 18:14:19 [main] INFO  com.learningselenium.testbase.TestBase - Clicked Customer_SearchedCustomer_Delete_Button_XPATH field
+05-26-2021 18:14:19 [main] INFO  com.learningselenium.testbase.TestBase - Entered Ragga in Customers_SearchCustomer_TextField_XPATH field
+05-26-2021 18:14:29 [main] INFO  com.learningselenium.testbase.TestBase - Record Deleted Successfully!!!!!
+05-26-2021 18:14:30 [main] INFO  com.learningselenium.testbase.TestBase - Closed all driver browser instances.
+05-26-2021 18:14:31 [main] INFO  com.learningselenium.testbase.TestBase - WebDriver setup successfully completed.
+05-26-2021 18:14:33 [main] INFO  com.learningselenium.testbase.TestBase - Navigated to http://www.way2automation.com/angularjs-protractor/banking/#/login url.
+05-26-2021 18:14:33 [main] INFO  com.learningselenium.testbase.TestBase - Clicked BankManagerLogin_Button_XPATH field
+05-26-2021 18:14:33 [main] INFO  com.learningselenium.testbase.TestBase - Clicked AddCustomer_MenuButton_XPATH field
+05-26-2021 18:14:34 [main] INFO  com.learningselenium.testbase.TestBase - Entered Sanjay in AddCustomer_FirstName_TextField_XPATH field
+05-26-2021 18:14:34 [main] INFO  com.learningselenium.testbase.TestBase - Entered Shankar in AddCustomer_LastName_TextField_XPATH field
+05-26-2021 18:14:34 [main] INFO  com.learningselenium.testbase.TestBase - Entered 400090 in AddCustomer_PostCode_TextField_XPATH field
+05-26-2021 18:14:34 [main] INFO  com.learningselenium.testbase.TestBase - Clicked AddCustomer_Button_XPATH field
+05-26-2021 18:14:34 [main] INFO  com.learningselenium.testbase.TestBase - Clicked OpenAccount_MenuButton_XPATH field
+05-26-2021 18:14:34 [main] INFO  com.learningselenium.testbase.TestBase - Selected Sanjay Shankar in OpenAccount_Customer_Select_XPATH Select field
+05-26-2021 18:14:34 [main] INFO  com.learningselenium.testbase.TestBase - Selected Pound in OpenAccount_Currency_Select_XPATH Select field
+05-26-2021 18:14:34 [main] INFO  com.learningselenium.testbase.TestBase - Clicked OpenAccount_Process_Button_XPATH field
+05-26-2021 18:14:34 [main] INFO  com.learningselenium.testbase.TestBase - Clicked Customer_MenuButton_XPATH field
+05-26-2021 18:14:35 [main] INFO  com.learningselenium.testbase.TestBase - Added record : Sanjay is present in Customers Table
+05-26-2021 18:14:35 [main] INFO  com.learningselenium.testbase.TestBase - Account field for the record : Sanjay is present in Customers Table
+05-26-2021 18:14:35 [main] INFO  com.learningselenium.testbase.TestBase - Entered Sanjay in Customers_SearchCustomer_TextField_XPATH field
+05-26-2021 18:14:35 [main] INFO  com.learningselenium.testbase.TestBase - Clicked Customer_SearchedCustomer_Delete_Button_XPATH field
+05-26-2021 18:14:35 [main] INFO  com.learningselenium.testbase.TestBase - Entered Sanjay in Customers_SearchCustomer_TextField_XPATH field
+05-26-2021 18:14:45 [main] INFO  com.learningselenium.testbase.TestBase - Record Deleted Successfully!!!!!
+05-26-2021 18:14:46 [main] INFO  com.learningselenium.testbase.TestBase - Closed all driver browser instances.
+05-26-2021 18:14:47 [main] INFO  com.learningselenium.testbase.TestBase - WebDriver setup successfully completed.
+05-26-2021 18:14:59 [main] INFO  com.learningselenium.testbase.TestBase - Navigated to http://www.way2automation.com/angularjs-protractor/banking/#/login url.
