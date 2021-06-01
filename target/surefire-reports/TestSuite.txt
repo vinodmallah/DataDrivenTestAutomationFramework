@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 6, Failures: 1, Errors: 0, Skipped: 3, Time elapsed: 39.363 sec <<< FAILURE! - in TestSuite
-test001_AddCustomerTest(com.learningselenium.testcases.BankManagerTestClass)  Time elapsed: 0.013 sec  <<< FAILURE!
+Tests run: 6, Failures: 1, Errors: 0, Skipped: 3, Time elapsed: 46.79 sec <<< FAILURE! - in TestSuite
+test001_AddCustomerTest(com.learningselenium.testcases.BankManagerTestClass)  Time elapsed: 0.012 sec  <<< FAILURE!
 java.lang.IllegalArgumentException: wrong number of arguments
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
