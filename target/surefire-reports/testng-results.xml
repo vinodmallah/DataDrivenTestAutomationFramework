@@ -2,25 +2,25 @@
 <testng-results skipped="0" failed="1" ignored="4" retried="3" total="10" passed="2">
   <reporter-output>
     <line>
-      <![CDATA[<a target="_blank" href=FailureScreenshot_test001_AddCustomerTest_2021-05-28_200732.jpg>Screenshot link</a>]]>
+      <![CDATA[<a target="_blank" href=FailureScreenshot_test001_AddCustomerTest_2021-06-01_134826.jpg>Screenshot link</a>]]>
     </line>
     <line>
       <![CDATA[<br>]]>
     </line>
     <line>
-      <![CDATA[<a target="_blank" href=FailureScreenshot_test001_AddCustomerTest_2021-05-28_200732.jpg><img src=FailureScreenshot_test001_AddCustomerTest_2021-05-28_200732.jpg height=200 width=200></a>]]>
+      <![CDATA[<a target="_blank" href=FailureScreenshot_test001_AddCustomerTest_2021-06-01_134826.jpg><img src=FailureScreenshot_test001_AddCustomerTest_2021-06-01_134826.jpg height=200 width=200></a>]]>
     </line>
   </reporter-output>
-  <suite name="DataDrivenTestSuite" duration-ms="36472" started-at="2021-05-28T20:07:33 IST" finished-at="2021-05-28T20:08:10 IST">
+  <suite name="DataDrivenTestSuite" duration-ms="42841" started-at="2021-06-01T13:48:28 IST" finished-at="2021-06-01T13:49:11 IST">
     <groups>
     </groups>
-    <test name="SmokeTest" duration-ms="36472" started-at="2021-05-28T20:07:33 IST" finished-at="2021-05-28T20:08:10 IST">
+    <test name="SmokeTest" duration-ms="42841" started-at="2021-06-01T13:48:28 IST" finished-at="2021-06-01T13:49:11 IST">
       <class name="com.learningselenium.testcases.BankManagerTestClass">
-        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.learningselenium.testcases.BankManagerTestClass@1a9c38eb]" name="launchBrowser" is-config="true" duration-ms="2459" started-at="2021-05-28T20:07:33 IST" finished-at="2021-05-28T20:07:36 IST">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.learningselenium.testcases.BankManagerTestClass@1a9c38eb]" name="launchBrowser" is-config="true" duration-ms="5696" started-at="2021-06-01T13:48:28 IST" finished-at="2021-06-01T13:48:34 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchBrowser -->
-        <test-method status="SKIP" signature="test001_AddCustomerTest(java.util.Hashtable,java.lang.reflect.Method)[pri:0, instance:com.learningselenium.testcases.BankManagerTestClass@1a9c38eb]" name="test001_AddCustomerTest" duration-ms="6057" retried="true" started-at="2021-05-28T20:07:36 IST" data-provider="ExcelTestDataProvider" finished-at="2021-05-28T20:07:42 IST">
+        <test-method status="SKIP" signature="test001_AddCustomerTest(java.util.Hashtable,java.lang.reflect.Method)[pri:0, instance:com.learningselenium.testcases.BankManagerTestClass@1a9c38eb]" name="test001_AddCustomerTest" duration-ms="5994" retried="true" started-at="2021-06-01T13:48:34 IST" data-provider="ExcelTestDataProvider" finished-at="2021-06-01T13:48:40 IST">
           <params>
             <param index="0">
               <value>
@@ -81,15 +81,15 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test001_AddCustomerTest -->
-        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.learningselenium.testcases.BankManagerTestClass@1a9c38eb]" name="closeBrowser" is-config="true" duration-ms="680" started-at="2021-05-28T20:07:42 IST" finished-at="2021-05-28T20:07:42 IST">
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.learningselenium.testcases.BankManagerTestClass@1a9c38eb]" name="closeBrowser" is-config="true" duration-ms="1171" started-at="2021-06-01T13:48:40 IST" finished-at="2021-06-01T13:48:41 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
-        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.learningselenium.testcases.BankManagerTestClass@1a9c38eb]" name="launchBrowser" is-config="true" duration-ms="1635" started-at="2021-05-28T20:07:42 IST" finished-at="2021-05-28T20:07:44 IST">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.learningselenium.testcases.BankManagerTestClass@1a9c38eb]" name="launchBrowser" is-config="true" duration-ms="2424" started-at="2021-06-01T13:48:41 IST" finished-at="2021-06-01T13:48:43 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchBrowser -->
-        <test-method status="SKIP" signature="test001_AddCustomerTest(java.util.Hashtable,java.lang.reflect.Method)[pri:0, instance:com.learningselenium.testcases.BankManagerTestClass@1a9c38eb]" name="test001_AddCustomerTest" duration-ms="1" retried="true" started-at="2021-05-28T20:07:44 IST" data-provider="ExcelTestDataProvider" finished-at="2021-05-28T20:07:44 IST">
+        <test-method status="SKIP" signature="test001_AddCustomerTest(java.util.Hashtable,java.lang.reflect.Method)[pri:0, instance:com.learningselenium.testcases.BankManagerTestClass@1a9c38eb]" name="test001_AddCustomerTest" duration-ms="1" retried="true" started-at="2021-06-01T13:48:43 IST" data-provider="ExcelTestDataProvider" finished-at="2021-06-01T13:48:43 IST">
           <params>
             <param index="0">
               <value>
@@ -140,15 +140,15 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test001_AddCustomerTest -->
-        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.learningselenium.testcases.BankManagerTestClass@1a9c38eb]" name="closeBrowser" is-config="true" duration-ms="647" started-at="2021-05-28T20:07:44 IST" finished-at="2021-05-28T20:07:45 IST">
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.learningselenium.testcases.BankManagerTestClass@1a9c38eb]" name="closeBrowser" is-config="true" duration-ms="748" started-at="2021-06-01T13:48:43 IST" finished-at="2021-06-01T13:48:44 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
-        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.learningselenium.testcases.BankManagerTestClass@1a9c38eb]" name="launchBrowser" is-config="true" duration-ms="1506" started-at="2021-05-28T20:07:45 IST" finished-at="2021-05-28T20:07:46 IST">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.learningselenium.testcases.BankManagerTestClass@1a9c38eb]" name="launchBrowser" is-config="true" duration-ms="3335" started-at="2021-06-01T13:48:44 IST" finished-at="2021-06-01T13:48:47 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchBrowser -->
-        <test-method status="SKIP" signature="test001_AddCustomerTest(java.util.Hashtable,java.lang.reflect.Method)[pri:0, instance:com.learningselenium.testcases.BankManagerTestClass@1a9c38eb]" name="test001_AddCustomerTest" duration-ms="1" retried="true" started-at="2021-05-28T20:07:46 IST" data-provider="ExcelTestDataProvider" finished-at="2021-05-28T20:07:46 IST">
+        <test-method status="SKIP" signature="test001_AddCustomerTest(java.util.Hashtable,java.lang.reflect.Method)[pri:0, instance:com.learningselenium.testcases.BankManagerTestClass@1a9c38eb]" name="test001_AddCustomerTest" duration-ms="0" retried="true" started-at="2021-06-01T13:48:47 IST" data-provider="ExcelTestDataProvider" finished-at="2021-06-01T13:48:47 IST">
           <params>
             <param index="0">
               <value>
@@ -199,15 +199,15 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test001_AddCustomerTest -->
-        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.learningselenium.testcases.BankManagerTestClass@1a9c38eb]" name="closeBrowser" is-config="true" duration-ms="688" started-at="2021-05-28T20:07:46 IST" finished-at="2021-05-28T20:07:47 IST">
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.learningselenium.testcases.BankManagerTestClass@1a9c38eb]" name="closeBrowser" is-config="true" duration-ms="659" started-at="2021-06-01T13:48:47 IST" finished-at="2021-06-01T13:48:48 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
-        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.learningselenium.testcases.BankManagerTestClass@1a9c38eb]" name="launchBrowser" is-config="true" duration-ms="1599" started-at="2021-05-28T20:07:47 IST" finished-at="2021-05-28T20:07:48 IST">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.learningselenium.testcases.BankManagerTestClass@1a9c38eb]" name="launchBrowser" is-config="true" duration-ms="1622" started-at="2021-06-01T13:48:48 IST" finished-at="2021-06-01T13:48:50 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchBrowser -->
-        <test-method status="FAIL" signature="test001_AddCustomerTest(java.util.Hashtable,java.lang.reflect.Method)[pri:0, instance:com.learningselenium.testcases.BankManagerTestClass@1a9c38eb]" name="test001_AddCustomerTest" duration-ms="1" started-at="2021-05-28T20:07:48 IST" data-provider="ExcelTestDataProvider" finished-at="2021-05-28T20:07:48 IST">
+        <test-method status="FAIL" signature="test001_AddCustomerTest(java.util.Hashtable,java.lang.reflect.Method)[pri:0, instance:com.learningselenium.testcases.BankManagerTestClass@1a9c38eb]" name="test001_AddCustomerTest" duration-ms="0" started-at="2021-06-01T13:48:50 IST" data-provider="ExcelTestDataProvider" finished-at="2021-06-01T13:48:50 IST">
           <params>
             <param index="0">
               <value>
@@ -257,25 +257,25 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103)
           </exception> <!-- java.lang.IllegalArgumentException -->
           <reporter-output>
             <line>
-              <![CDATA[<a target="_blank" href=FailureScreenshot_test001_AddCustomerTest_2021-05-28_200732.jpg>Screenshot link</a>]]>
+              <![CDATA[<a target="_blank" href=FailureScreenshot_test001_AddCustomerTest_2021-06-01_134826.jpg>Screenshot link</a>]]>
             </line>
             <line>
               <![CDATA[<br>]]>
             </line>
             <line>
-              <![CDATA[<a target="_blank" href=FailureScreenshot_test001_AddCustomerTest_2021-05-28_200732.jpg><img src=FailureScreenshot_test001_AddCustomerTest_2021-05-28_200732.jpg height=200 width=200></a>]]>
+              <![CDATA[<a target="_blank" href=FailureScreenshot_test001_AddCustomerTest_2021-06-01_134826.jpg><img src=FailureScreenshot_test001_AddCustomerTest_2021-06-01_134826.jpg height=200 width=200></a>]]>
             </line>
           </reporter-output>
         </test-method> <!-- test001_AddCustomerTest -->
-        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.learningselenium.testcases.BankManagerTestClass@1a9c38eb]" name="closeBrowser" is-config="true" duration-ms="712" started-at="2021-05-28T20:07:49 IST" finished-at="2021-05-28T20:07:50 IST">
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.learningselenium.testcases.BankManagerTestClass@1a9c38eb]" name="closeBrowser" is-config="true" duration-ms="692" started-at="2021-06-01T13:48:50 IST" finished-at="2021-06-01T13:48:51 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
-        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.learningselenium.testcases.BankManagerTestClass@1a9c38eb]" name="launchBrowser" is-config="true" duration-ms="1748" started-at="2021-05-28T20:07:50 IST" finished-at="2021-05-28T20:07:51 IST">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.learningselenium.testcases.BankManagerTestClass@1a9c38eb]" name="launchBrowser" is-config="true" duration-ms="1669" started-at="2021-06-01T13:48:51 IST" finished-at="2021-06-01T13:48:53 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchBrowser -->
-        <test-method status="PASS" signature="test002_OpenAccountTest(java.util.Hashtable,java.lang.reflect.Method)[pri:0, instance:com.learningselenium.testcases.BankManagerTestClass@1a9c38eb]" name="test002_OpenAccountTest" duration-ms="2438" started-at="2021-05-28T20:07:51 IST" data-provider="ExcelTestDataProvider" finished-at="2021-05-28T20:07:54 IST">
+        <test-method status="PASS" signature="test002_OpenAccountTest(java.util.Hashtable,java.lang.reflect.Method)[pri:0, instance:com.learningselenium.testcases.BankManagerTestClass@1a9c38eb]" name="test002_OpenAccountTest" duration-ms="2496" started-at="2021-06-01T13:48:53 IST" data-provider="ExcelTestDataProvider" finished-at="2021-06-01T13:48:55 IST">
           <params>
             <param index="0">
               <value>
@@ -291,15 +291,15 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test002_OpenAccountTest -->
-        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.learningselenium.testcases.BankManagerTestClass@1a9c38eb]" name="closeBrowser" is-config="true" duration-ms="819" started-at="2021-05-28T20:07:54 IST" finished-at="2021-05-28T20:07:55 IST">
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.learningselenium.testcases.BankManagerTestClass@1a9c38eb]" name="closeBrowser" is-config="true" duration-ms="704" started-at="2021-06-01T13:48:55 IST" finished-at="2021-06-01T13:48:56 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
-        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.learningselenium.testcases.BankManagerTestClass@1a9c38eb]" name="launchBrowser" is-config="true" duration-ms="1699" started-at="2021-05-28T20:07:55 IST" finished-at="2021-05-28T20:07:56 IST">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.learningselenium.testcases.BankManagerTestClass@1a9c38eb]" name="launchBrowser" is-config="true" duration-ms="1885" started-at="2021-06-01T13:48:56 IST" finished-at="2021-06-01T13:48:58 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchBrowser -->
-        <test-method status="PASS" signature="test003_DeleteCustomerTest(java.util.Hashtable,java.lang.reflect.Method)[pri:0, instance:com.learningselenium.testcases.BankManagerTestClass@1a9c38eb]" name="test003_DeleteCustomerTest" duration-ms="12558" started-at="2021-05-28T20:07:56 IST" data-provider="ExcelTestDataProvider" finished-at="2021-05-28T20:08:09 IST">
+        <test-method status="PASS" signature="test003_DeleteCustomerTest(java.util.Hashtable,java.lang.reflect.Method)[pri:0, instance:com.learningselenium.testcases.BankManagerTestClass@1a9c38eb]" name="test003_DeleteCustomerTest" duration-ms="12431" started-at="2021-06-01T13:48:58 IST" data-provider="ExcelTestDataProvider" finished-at="2021-06-01T13:49:10 IST">
           <params>
             <param index="0">
               <value>
@@ -315,25 +315,25 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test003_DeleteCustomerTest -->
-        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.learningselenium.testcases.BankManagerTestClass@1a9c38eb]" name="closeBrowser" is-config="true" duration-ms="695" started-at="2021-05-28T20:08:09 IST" finished-at="2021-05-28T20:08:10 IST">
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.learningselenium.testcases.BankManagerTestClass@1a9c38eb]" name="closeBrowser" is-config="true" duration-ms="745" started-at="2021-06-01T13:49:10 IST" finished-at="2021-06-01T13:49:11 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
       </class> <!-- com.learningselenium.testcases.BankManagerTestClass -->
       <class name="com.learningselenium.testbase.TestBase">
-        <test-method status="PASS" signature="setupDatabaseConnection()[pri:0, instance:com.learningselenium.testbase.TestBase@2cc3ad05]" name="setupDatabaseConnection" is-config="true" duration-ms="605" started-at="2021-05-28T20:07:32 IST" finished-at="2021-05-28T20:07:33 IST">
+        <test-method status="PASS" signature="setupDatabaseConnection()[pri:0, instance:com.learningselenium.testbase.TestBase@2cc3ad05]" name="setupDatabaseConnection" is-config="true" duration-ms="967" started-at="2021-06-01T13:48:27 IST" finished-at="2021-06-01T13:48:28 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setupDatabaseConnection -->
-        <test-method status="PASS" signature="performPreTestActivity()[pri:0, instance:com.learningselenium.testbase.TestBase@2cc3ad05]" name="performPreTestActivity" is-config="true" duration-ms="0" started-at="2021-05-28T20:07:33 IST" finished-at="2021-05-28T20:07:33 IST">
+        <test-method status="PASS" signature="performPreTestActivity()[pri:0, instance:com.learningselenium.testbase.TestBase@2cc3ad05]" name="performPreTestActivity" is-config="true" duration-ms="1" started-at="2021-06-01T13:48:28 IST" finished-at="2021-06-01T13:48:28 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- performPreTestActivity -->
-        <test-method status="PASS" signature="performPostTestActivity()[pri:0, instance:com.learningselenium.testbase.TestBase@2cc3ad05]" name="performPostTestActivity" is-config="true" duration-ms="0" started-at="2021-05-28T20:08:10 IST" finished-at="2021-05-28T20:08:10 IST">
+        <test-method status="PASS" signature="performPostTestActivity()[pri:0, instance:com.learningselenium.testbase.TestBase@2cc3ad05]" name="performPostTestActivity" is-config="true" duration-ms="1" started-at="2021-06-01T13:49:11 IST" finished-at="2021-06-01T13:49:11 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- performPostTestActivity -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.learningselenium.testbase.TestBase@2cc3ad05]" name="tearDown" is-config="true" duration-ms="2" started-at="2021-05-28T20:08:10 IST" finished-at="2021-05-28T20:08:10 IST">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.learningselenium.testbase.TestBase@2cc3ad05]" name="tearDown" is-config="true" duration-ms="2" started-at="2021-06-01T13:49:11 IST" finished-at="2021-06-01T13:49:11 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
