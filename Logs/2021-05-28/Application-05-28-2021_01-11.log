@@ -1,9 +1,0 @@
-05-28-2021 01:11:05 [main] INFO  com.learningselenium.testbase.TestBase - Record Deleted Successfully!!!!!
-05-28-2021 01:11:05 [main] INFO  com.learningselenium.testhelpers.CustomListeners - TestCase : test003_DeleteCustomerTest Passed.
-05-28-2021 01:11:06 [main] INFO  com.learningselenium.testbase.TestBase - Closed all driver browser instances.
-05-28-2021 01:11:07 [main] INFO  com.learningselenium.testbase.TestBase - WebDriver setup successfully completed.
-05-28-2021 01:11:26 [main] INFO  com.learningselenium.testbase.TestBase - Navigated to http://www.way2automation.com/angularjs-protractor/banking/#/login url.
-05-28-2021 01:11:36 [main] INFO  com.learningselenium.testhelpers.CustomListeners - TestCase : test003_DeleteCustomerTest failed.
-05-28-2021 01:11:37 [main] INFO  com.learningselenium.testbase.TestBase - Closed all driver browser instances.
-05-28-2021 01:11:37 [main] INFO  com.learningselenium.testbase.TestBase - Performing Post Test Activity
-05-28-2021 01:11:37 [main] INFO  com.learningselenium.testbase.TestBase - Successfully closed MySQL Database Connection

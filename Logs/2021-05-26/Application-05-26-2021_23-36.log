@@ -1,2 +1,0 @@
-05-26-2021 23:36:29 [main] INFO  com.learningselenium.testbase.TestBase - Navigated to http://www.way2automation.com/angularjs-protractor/banking/#/login url.
-05-26-2021 23:36:40 [main] INFO  com.learningselenium.testhelpers.CustomListeners - TestCase : test001_AddCustomerTest failed.

@@ -1,3 +1,0 @@
-05-26-2021 19:32:56 [main] INFO  com.learningselenium.testbase.TestBase - Connected to MySQL Database
-05-26-2021 19:32:56 [main] INFO  com.learningselenium.testbase.TestBase - Loaded TestConfig & Object Repository Properties File.
-05-26-2021 19:32:57 [main] INFO  com.learningselenium.testbase.TestBase - WebDriver setup successfully completed.

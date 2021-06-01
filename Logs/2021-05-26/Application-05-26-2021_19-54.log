@@ -1,3 +1,0 @@
-05-26-2021 19:54:04 [main] INFO  com.learningselenium.testbase.TestBase - Closed all driver browser instances.
-05-26-2021 19:54:04 [main] INFO  com.learningselenium.testbase.TestBase - Performing Post Test Activity
-05-26-2021 19:54:04 [main] INFO  com.learningselenium.testbase.TestBase - Successfully closed MySQL Database Connection

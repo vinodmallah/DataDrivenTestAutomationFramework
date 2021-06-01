@@ -1,5 +1,0 @@
-05-26-2021 20:10:04 [main] INFO  com.learningselenium.testbase.TestBase - Record Deleted Successfully!!!!!
-05-26-2021 20:10:04 [main] INFO  com.learningselenium.testhelpers.CustomListeners - TestCase : test003_DeleteCustomerTest Passed.
-05-26-2021 20:10:05 [main] INFO  com.learningselenium.testbase.TestBase - Closed all driver browser instances.
-05-26-2021 20:10:05 [main] INFO  com.learningselenium.testbase.TestBase - Performing Post Test Activity
-05-26-2021 20:10:05 [main] INFO  com.learningselenium.testbase.TestBase - Successfully closed MySQL Database Connection

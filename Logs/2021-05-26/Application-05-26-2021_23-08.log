@@ -1,6 +1,0 @@
-05-26-2021 23:08:01 [main] INFO  com.learningselenium.testbase.TestBase - WebDriver setup successfully completed.
-05-26-2021 23:08:02 [main] INFO  com.learningselenium.testbase.TestBase - Navigated to http://www.way2automation.com/angularjs-protractor/banking/#/login url.
-05-26-2021 23:08:02 [main] INFO  com.learningselenium.testhelpers.CustomListeners - TestCase : testMethod failed.
-05-26-2021 23:08:15 [main] INFO  com.learningselenium.testbase.TestBase - Closed all driver browser instances.
-05-26-2021 23:08:15 [main] INFO  com.learningselenium.testbase.TestBase - Performing Post Test Activity
-05-26-2021 23:08:15 [main] INFO  com.learningselenium.testbase.TestBase - Successfully closed MySQL Database Connection
